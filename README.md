@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="paineis.jpg" />
+  <img alt="Imagem da Aplicação" src="paineis.png" />
 </p>
 
 ---
