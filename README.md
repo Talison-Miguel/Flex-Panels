@@ -35,7 +35,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo um painel flexivel, que muda de acordo com  click, feito usando javaScript puro.
+Este é um repositório contendo uma implementação de um painel dinâmico que se adapta ao clique do usuário, de diferentes maneiras.
 
 ---
 
